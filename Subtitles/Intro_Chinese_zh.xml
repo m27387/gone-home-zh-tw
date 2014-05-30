@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<subtitles>
+	<subtitle id="0">
+		<StartTime>9</StartTime>
+		<Text>嗨，老媽！</Text>
+	</subtitle>
+	<subtitle id="1">
+		<StartTime>10.25</StartTime>
+		<Text>我終於拿到從歐洲回來的機票。</Text>
+	</subtitle>
+	<subtitle id="2">
+		<StartTime>12</StartTime>
+		<Text>我會在6月6號回來，雖然有點晚，不過是最便宜的班機了，所以會在半夜出發。</Text>
+	</subtitle>
+	<subtitle id="3">
+		<StartTime>17</StartTime>
+		<Text>不用擔心我，我會搭機場接駁車回家，所以不用來接我。</Text>
+	</subtitle>
+	<subtitle id="4">
+		<StartTime>20</StartTime>
+		<Text>真的，真的不用接。</Text>
+	</subtitle>
+	<subtitle id="5">
+		<StartTime>22.5</StartTime>
+		<Text>好吧，那就，我愛妳，早日見！拜拜！</Text>
+	</subtitle>
+	<subtitle id="6">
+		<StartTime>27</StartTime>
+		<Text/>
+	</subtitle>
+</subtitles>
+

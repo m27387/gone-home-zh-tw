@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>1</StartTime>
+    <Text>喵喵。</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>4</StartTime>
+    <Text>喵喵喵，喵喵，喵。</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>10</StartTime>
+    <Text>喵喵喵喵。</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>14</StartTime>
+    <Text>喵喵喵，喵喵，喵，喵，喵喵，喵。</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>20</StartTime>
+    <Text>喵喵喵喵，喵喵喵喵喵喵喵喵喵喵。</Text>
+  </subtitle>
+  <subtitle id="5">
+    <StartTime>27</StartTime>
+    <Text>喵喵喵，喵喵，喵喵，喵喵喵喵，喵。</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>30</StartTime>
+    <Text>喵。</Text>
+  </subtitle>
+</subtitles>
